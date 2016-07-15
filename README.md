@@ -65,8 +65,8 @@ extension ViewController:ContextDelegate{
   }
 ```
 
-![alt text](https://github.com/ashwin773/CustomActionSheet/blob/master/1.png "Main Screen")
+![alt text](https://github.com/ashwin773/Custom-Action-Sheet/blob/master/1.png "Main Screen")
 
-![alt text](https://github.com/ashwin773/CustomActionSheet/blob/master/2.png "Vertical Action Sheet")
+![alt text](https://github.com/ashwin773/Custom-Action-Sheet/blob/master/2.png "Vertical Action Sheet")
 
-![alt text](https://github.com/ashwin773/CustomActionSheet/blob/master/3.png "Spread Out Animation")
+![alt text](https://github.com/ashwin773/Custom-Action-Sheet/blob/master/3.png "Spread Out Animation")
